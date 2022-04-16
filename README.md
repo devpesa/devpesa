@@ -15,8 +15,6 @@
 - ⚡ Fun fact :- Pop Smoke and 2Pac🎵 are the reasons to live.
 
 <br>
-<br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -30,6 +28,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </p>
 
+<br>
+<br>
+<br>
 <br>
 
 <h3>Statistical Data :-</h3>
