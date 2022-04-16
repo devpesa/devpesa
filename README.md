@@ -37,9 +37,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
