@@ -15,6 +15,8 @@
 - ⚡ Fun fact :- Pop Smoke and 2Pac🎵 are the reasons to live.
 
 <br>
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
