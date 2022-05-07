@@ -1,7 +1,3 @@
-<!-- Discord -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/970211133376049152)](https://discord.com/users/970211133376049152)
-<!-- Discord -->
-
 <h1 align="center">Hi 👋, I'm Pesa</h1>
 
 <br>
