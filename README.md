@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **ydiyar009@gmail.com**
-
 - ⚡ Fun fact : Pop Smoke and 2Pac🎵 are the reasons to live.
 
 <br>
